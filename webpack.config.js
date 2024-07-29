@@ -44,7 +44,7 @@ module.exports = {
         // This URL provides three important pieces of information: the module''s name is "Header", it is hosted on "localhost:3001",
         // and its module definition is "remoteEntry.js".
         remotes: {
-            remote: "HeaderApp@https://react-child-qmfzfcbcv-aleena-georges-projects.vercel.app/remoteEntry.js",
+            remote: "HeaderApp@https://react-child-app-rose.vercel.app/remoteEntry.js",
             local: "HeaderApp@http://localhost:3001/remoteEntry.js",
 
         },
